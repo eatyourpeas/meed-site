@@ -22,8 +22,8 @@ title: Managing Emergencies in Eating Disorders (MEED)
 email: simon@eatyourpeas.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   This site supports the MaRSiPAN app, and in time will be replaced with a MEED app and fuller guidance. MEED is national guidance for clinicians on the management of emergencies in eating disorders.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/meed-site" # the subpath of your site, e.g. /blog
+url: "eatyourpeas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: marsipan6
 github_username:  eatyourpeas
 
